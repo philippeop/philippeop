@@ -1,5 +1,5 @@
 
-Experience with [Angular](https://github.com/angular), [React](https://github.com/reactjs/reactjs.org), [jQuery](https://github.com/jquery/jquery), [NodeJS](https://github.com/nodejs/node), full stack [Microsoft](https://github.com/microsoft)
+Experience with [Angular](https://github.com/angular), [React](https://github.com/reactjs/reactjs.org), [jQuery](https://github.com/jquery/jquery), [NodeJS](https://github.com/nodejs/node), full stack [Microsoft C#](https://github.com/microsoft)
 
 <!--
 **philippeop/philippeop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
